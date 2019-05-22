@@ -12,3 +12,6 @@ de los archivos o carpetas que queremos evitar que se suban a git
 git add  //sirve para empezar a subir los archivos o darles seguimiento, entiendase por seguimiento seguir el estado del archivo, cuando se creo o modifico
 git add // y le especificamos el archivo que queremos que se le empiece a dar conocimiento, con 
 git add . //con el punto le estamos especificando todos los archivos que estan dentro de la esta carpeta o poryecto
+
+git commit -m "" // este comando sirve para subir lo que ya se tiene listo lo que se alisto previmente con el git add
+git commit -m "" // entre las comillas ponemos un mensaje o descripcion de lo que se hizo
