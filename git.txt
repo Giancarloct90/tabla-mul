@@ -1,0 +1,14 @@
+gitttttttttttttttttttttttttttt
+
+
+comando:
+git --version // para poder saber la versionde git que tenemos instalado en la computadora 
+git status // para ver el estatus de nuestro archivos
+
+en ocasiones necesitaremos no subir a github o no sera recomendable subir ciertas carpetas o archvios 
+para poder indicarle a git que archivos se borraran creamos un archivo .gitignore en donde pondremos el nombre 
+de los archivos o carpetas que queremos evitar que se suban a git
+
+git add  //sirve para empezar a subir los archivos o darles seguimiento, entiendase por seguimiento seguir el estado del archivo, cuando se creo o modifico
+git add // y le especificamos el archivo que queremos que se le empiece a dar conocimiento, con 
+git add . //con el punto le estamos especificando todos los archivos que estan dentro de la esta carpeta o poryecto

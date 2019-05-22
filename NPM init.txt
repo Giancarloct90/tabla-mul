@@ -1,0 +1,19 @@
+inti NPM
+el comando npm init nos sirve para para inicializar la los archivos necesarios para empezar a programar una app 
+cuando corremos el comando npm init en la consola nos empieza a preguntar un monto de informacion acerca de la nueva app
+nos pide informacion como el package name 
+version de app
+el repositorio de git por si tenemos
+el keyword
+el tipo de licencia
+al hacer esto se crea un archvio dentro de la carpeta donde corrimos dicho comando, el archivo que se crea es el package.json,
+en este archivo se encuentra informacion acerca de la app, informacion que pusimos cuando corrimos el archivo npm init 
+en el archivo package.json se encuentra informacion de las dependecias instaladas en la carpeta de nuestro proyectos, esto se hace para cuando queramos 
+mover nuestro proyecto a otra maquina o servidor, en este archivo ya va el nombre de los paquetes necesarios para que nuestra app funcione sin problemas
+con npm install se instalan las dependencia que se enceuntra en el package.json previamente creado
+
+de esta manera creamos un paquete con la opcion --save lo guardamos en el package.json, la i es de install y yargs esquvale al nombre del paquete o dependecia
+npm i --save yargs 
+
+de esta manera desintalamos en algun paquete que ya no ocupemos
+npmn uninstall <nombre de paquete>
