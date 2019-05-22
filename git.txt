@@ -1,5 +1,8 @@
 gitttttttttttttttttttttttttttt
 
+primero instalamos git en nuestro ordenador luego lo configuramos con los siguientes comando
+git config --global user.email giancarloct90@hotmail.comando
+git config --global user.name Giancarloct90
 
 comando:
 git --version // para poder saber la versionde git que tenemos instalado en la computadora 
