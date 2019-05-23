@@ -5,6 +5,8 @@ git config --global user.email giancarloct90@hotmail.comando
 git config --global user.name Giancarloct90
 
 comando:
+git remote -v // miramos que repositorio tenemos vinculado a nuestro proyecto
+git remote rm origin //desvinculamos el repositorio de nuestro proyecto, tendriamos que volver a vincular otro
 git --version // para poder saber la versionde git que tenemos instalado en la computadora 
 git status // para ver el estatus de nuestro archivos
 
