@@ -20,3 +20,6 @@ git add . //con el punto le estamos especificando todos los archivos que estan d
 
 git commit -m "" // este comando sirve para subir lo que ya se tiene listo lo que se alisto previmente con el git add
 git commit -m "" // entre las comillas ponemos un mensaje o descripcion de lo que se hizo
+
+git remote add origin http... // vinculamos nuestro proyecto al proyecto de github que previamente creamos en las web de github
+git push -u origin master  // sube a la rama principal 
